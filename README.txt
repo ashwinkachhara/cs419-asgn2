@@ -1,3 +1,19 @@
+### cs419-asgn2
+
+Machine Learning Assignment 2
+
+Classification under Uncertainty
+Dataset: Gene expression dataset http://www.ncbi.nlm.nih.gov/geo/ with accession number GSE 2187
+
+Construction of Kernel that compares distributions (![REF](https://raw.github.com/ashwinkachhara/cs419-asgn2/master/jebara04a.pdf)
+
+
+
+
+ 
+## Notes
+
+
 Omitted Files: (only 2 replicates)
 GSM43425#148
 GSM43426#149
